@@ -1,0 +1,7 @@
+name: ServerBase
+author: the_waltster
+main: me.waltster.ServerBase.Main
+version: 1.0
+commands:
+  royals:
+    description: Royals utility command
